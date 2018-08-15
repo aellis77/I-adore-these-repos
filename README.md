@@ -34,5 +34,5 @@ A list of funny and tricky JavaScript examples
 
 9. Google's quantaum computing project : Cirq and OpenFermion-Cirq
 
-10. Google's AI project for graphs : tensorflow (https://opensource.google.com)
+10.  Well, not adore, but more intriguied, Google's AI project for graphs : tensorflow (https://opensource.google.com)
 
